@@ -1,4 +1,4 @@
-- <h1 align="center">👋 Hi, I’m Samar</h1>
+<h1 align="center">👋 Hi, I’m Samar</h1>
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <br>
 <p align="center"> <a href="https://twitter.com/samark02" target="blank"><img src="https://img.shields.io/twitter/follow/samark02?logo=twitter&style=for-the-badge" alt="samark02"/></a></p>
