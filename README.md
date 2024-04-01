@@ -3,9 +3,9 @@
 <br>
 <p align="center"> <a href="https://twitter.com/samark02" target="blank"><img src="https://img.shields.io/twitter/follow/samark02?logo=twitter&style=for-the-badge" alt="samark02"/></a></p>
 - 👀 I’m interested in learning new technology and to collaborate with new minds...<br>
-- 🌱 I’m currently learning my undergraduate degree in B.tech Artificial Intelligence & Data Science...<br>
+- 🌱 I’m currently pursuing my undergraduate degree in B.tech Artificial Intelligence & Data Science...<br>
 - 💞️ I’m looking to collaborate on projects with like minded people...<br>
-- 📫 Reach me through my mail id: samarsunil02@gmail.com <br>
+- 📫 Reach me through my mail id: samarkaland@gmail.com <br>
 - 🙌 Do check out my landing pasge at https://samark02.github.io <br>
 
 <h3 align="left">Connect with me:</h3>
